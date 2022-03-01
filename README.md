@@ -9,6 +9,11 @@ Python Youtube Downloader tries to offer a simple and easy to use interface to d
 
 ## Installation
 -------------------------------------
+Clone the repository:
+```
+git clone  https://github.com/Jack-Christopher/Python-Youtube-Downloader.git
+```
+
 In order to use on desktop you need Python 3 and some dependencies, to install them run:
 
 ```
@@ -20,9 +25,11 @@ Then you can run the program:
 python main.py
 ```
 
-A Tkinter GUI will appear. Select File > New , and enter the Youtube URL, then select the type: Solo Audio (wihtout video, for music), Only Video (without audio) or Audio and Video.
+A Tkinter GUI will appear. 
+Select File > New , and enter the Youtube URL, then select the type: Solo Audio (wihtout video, for music), Only Video (without audio) or Audio and Video.
 Then press Add Link and the format options will appear.
-Choos the format you want to download. After that a windows will appear for that you can choose the path to save the file.
+Choose the format you want to download.
+After that a windows will appear for that you can choose the path to save the file.
 Finally, wait until the Progress Bar reaches 100% and the download is finished. Then, you can download another file or close the program.
 
 
